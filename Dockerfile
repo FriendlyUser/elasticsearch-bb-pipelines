@@ -1,4 +1,4 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch:7.1.1
+FROM docker.elastic.co/elasticsearch/elasticsearch:7.5.1
 
 MAINTAINER David Li <davidli012345@gmail.com>
 
